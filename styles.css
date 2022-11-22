@@ -19,15 +19,6 @@ section{
     margin: 30px;
 }
 
-.colors_list{
-    display: inline-flex;
-    flex-wrap: wrap;
-    align-content: space-between;
-    justify-items: center;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-}
 .box{
     width: 300px;
     height: 200px;
@@ -77,6 +68,15 @@ p{
     font-size: 15px;
 }
 /* Color Section */
+.colors_list{
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
 #color{
     border: 5px solid darkblue;
 }
